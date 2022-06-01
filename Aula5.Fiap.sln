@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula5.Fiap.Ex2", "Aula5.Fia
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula5.Fiap.Ex3", "Aula5.Fiap.Ex3\Aula5.Fiap.Ex3.csproj", "{BAB1DEE2-5379-414E-8AEF-6DE91BE7E3E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula5.Fiap.Ex4", "Aula5.Fiap.Ex4\Aula5.Fiap.Ex4.csproj", "{C3AD5A98-B2D1-4B0F-B28C-95396A19A979}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{BAB1DEE2-5379-414E-8AEF-6DE91BE7E3E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAB1DEE2-5379-414E-8AEF-6DE91BE7E3E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAB1DEE2-5379-414E-8AEF-6DE91BE7E3E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3AD5A98-B2D1-4B0F-B28C-95396A19A979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3AD5A98-B2D1-4B0F-B28C-95396A19A979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3AD5A98-B2D1-4B0F-B28C-95396A19A979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3AD5A98-B2D1-4B0F-B28C-95396A19A979}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
