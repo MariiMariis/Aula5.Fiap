@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula5.Fiap", "Aula5.Fiap\Au
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula5.Fiap.Ex2", "Aula5.Fiap.Ex2\Aula5.Fiap.Ex2.csproj", "{E8A8DAA0-02D4-4C5F-8594-8C5FCF5A6FE4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula5.Fiap.Ex3", "Aula5.Fiap.Ex3\Aula5.Fiap.Ex3.csproj", "{BAB1DEE2-5379-414E-8AEF-6DE91BE7E3E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E8A8DAA0-02D4-4C5F-8594-8C5FCF5A6FE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8A8DAA0-02D4-4C5F-8594-8C5FCF5A6FE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8A8DAA0-02D4-4C5F-8594-8C5FCF5A6FE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAB1DEE2-5379-414E-8AEF-6DE91BE7E3E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAB1DEE2-5379-414E-8AEF-6DE91BE7E3E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAB1DEE2-5379-414E-8AEF-6DE91BE7E3E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAB1DEE2-5379-414E-8AEF-6DE91BE7E3E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
